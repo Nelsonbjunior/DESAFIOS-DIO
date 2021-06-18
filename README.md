@@ -5,5 +5,9 @@ Aqui se encontram minhas implementações dos desafios de código da Digital Inn
 
 Sinta-se a vontade para analisar, contribuir e etc!
 
-## 🔸 Java
+# 🔸 Java
+## 🔸 Desafios matemáticos em Java
+|  Desafio  | Nível  | Resolução  |
+|-----------|--------|-----|
+| Análise de Números| 🟪⬜⬜   |🏅 [**Análise de Números.java**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/1%20-%20Desafios%20matem%C3%A1ticos%20em%20Java/An%C3%A1lise%20de%20N%C3%BAmeros.java) |✔ 
 
