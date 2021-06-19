@@ -33,4 +33,19 @@ Sinta-se a vontade para analisar, contribuir e etc!
 |-----------|--------|-----|
 | Fórmula de Bhaskara | 🟪🟪⬜   |🏅 [**Fórmula de Bhaskara.cs**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/C%23/Desafios%20Aritm%C3%A9ticos%20Intermedi%C3%A1rios%20em%20C%23/F%C3%B3rmula%20de%20Bhaskara.cs) |
 | Notas e Moedas | 🟪🟪⬜   |🏅 [**Notas e Moedas.cs**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/C%23/Desafios%20Aritm%C3%A9ticos%20Intermedi%C3%A1rios%20em%20C%23/Notas%20e%20Moedas.cs) |
-| Tipos de Triângulos | 🟪🟪⬜   |🏅 [**Tipos de Triângulos**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/C%23/Desafios%20Aritm%C3%A9ticos%20Intermedi%C3%A1rios%20em%20C%23/Tipos%20de%20Tri%C3%A3ngulos.cs) |
+| Tipos de Triângulos | 🟪🟪⬜   |🏅 [**Tipos de Triângulos.cs**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/C%23/Desafios%20Aritm%C3%A9ticos%20Intermedi%C3%A1rios%20em%20C%23/Tipos%20de%20Tri%C3%A3ngulos.cs) |
+
+# 🔸 Python
+## 🔸 Soluções Aritméticas em Python
+|  Desafio  | Nível  | Resolução  |
+|-----------|--------|-----|
+| Notas da Prova | 🟪⬜⬜   |🏅 [**Notas da Prova.py**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/PYTHON/Solu%C3%A7%C3%B5es%20Aritm%C3%A9ticas%20em%20Python/Notas%20da%20Prova.py) |
+| Preenchiment de Vetor I | 🟪⬜⬜   |🏅 [**Preenchiment de Vetor I.py**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/PYTHON/Solu%C3%A7%C3%B5es%20Aritm%C3%A9ticas%20em%20Python/Preenchiment%20de%20Vetor%20I.py) |
+| Triângulo | 🟪⬜⬜   |🏅 [**Triângulo.py**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/PYTHON/Solu%C3%A7%C3%B5es%20Aritm%C3%A9ticas%20em%20Python/Tri%C3%A2ngulo.py) |
+
+## 🔸 Solucionando Desafios em Python
+|  Desafio  | Nível  | Resolução  |
+|-----------|--------|-----|
+| Folha de Pagamento | 🟪🟪⬜   |🏅 [**Folha de Pagamento.py**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/PYTHON/Solucionando%20Desafios%20em%20Python/Folha%20de%20Pagamento.py) |
+| Média 3 | 🟪🟪⬜   |🏅 [**Média 3.py**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/PYTHON/Solucionando%20Desafios%20em%20Python/M%C3%A9dia%203.py) |
+| Programa para Validação de Notas | 🟪🟪⬜   |🏅 [**Programa para Validação de Notas.py**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/PYTHON/Solucionando%20Desafios%20em%20Python/Programa%20para%20Valida%C3%A7%C3%A3o%20de%20Notas.py) |
