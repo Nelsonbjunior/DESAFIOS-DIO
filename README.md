@@ -76,3 +76,11 @@ Sinta-se a vontade para analisar, contribuir e etc!
 | Fibonacci Fácil | 🟪🟪⬜   |🏅 [**Fibonacci Fácil.rb**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/RUBY/Praticando%20com%20desafios%20intermedi%C3%A1rios%20em%20Ruby/Fibonacci%20F%C3%A1cil.rb) |
 | Sequência Lógica | 🟪🟪⬜   |🏅 [**Sequência Lógica.rb**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/RUBY/Praticando%20com%20desafios%20intermedi%C3%A1rios%20em%20Ruby/Sequ%C3%AAncia%20L%C3%B3gica.rb) |
 | Tipo de Combustível | 🟪🟪⬜   |🏅 [**Tipo de Combustível.rb**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/RUBY/Praticando%20com%20desafios%20intermedi%C3%A1rios%20em%20Ruby/Tipo%20de%20Combust%C3%ADvel.rb) |
+
+## 👩‍💻 PSolucionando desafios matemáticos em Ruby
+|  Desafio  | Nível  | Resolução  |
+|-----------|--------|-----|
+| Acima da Diagonal Principal | 🟪🟪🟪   |🏅 [**Acima da Diagonal Principal.rb**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/RUBY/Solucionando%20desafios%20matem%C3%A1ticos%20em%20Ruby/Acima%20da%20Diagonal%20Principal.rb) |
+| Fibonacci em Vetor | 🟪🟪🟪   |🏅 [**Fibonacci em Vetor.rb**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/RUBY/Solucionando%20desafios%20matem%C3%A1ticos%20em%20Ruby/Fibonacci%20em%20Vetor.rb) |
+| Substituição em Vetor I | 🟪🟪🟪   |🏅 [**Substituição em Vetor I.rb**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/RUBY/Solucionando%20desafios%20matem%C3%A1ticos%20em%20Ruby/Substitui%C3%A7%C3%A3o%20em%20Vetor%20I.rb) |
+
