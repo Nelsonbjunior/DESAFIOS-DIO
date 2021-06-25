@@ -84,3 +84,21 @@ Sinta-se a vontade para analisar, contribuir e etc!
 | Fibonacci em Vetor | 🟪🟪🟪   |🏅 [**Fibonacci em Vetor.rb**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/RUBY/Solucionando%20desafios%20matem%C3%A1ticos%20em%20Ruby/Fibonacci%20em%20Vetor.rb) |
 | Substituição em Vetor I | 🟪🟪🟪   |🏅 [**Substituição em Vetor I.rb**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/RUBY/Solucionando%20desafios%20matem%C3%A1ticos%20em%20Ruby/Substitui%C3%A7%C3%A3o%20em%20Vetor%20I.rb) |
 
+# 🔸 Javascript ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 👩‍💻 Solução de problemas básicos em JavaScript
+|  Desafio  | Nível  | Resolução  |
+|-----------|--------|-----|
+| Blobs | 🟪⬜⬜   |🏅 [**Blobs.js**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/JAVASCRIPT/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20JavaScript/Blobs.js) |
+| Dividindo X por Y | 🟪⬜⬜   |🏅 [**Dividindo X por Y.js**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/JAVASCRIPT/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20JavaScript/Dividindo%20X%20por%20Y.js) |
+| Tipo de Combustivel | 🟪⬜⬜   |🏅 [**Tipo de Combustivel.js**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/JAVASCRIPT/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20JavaScript/Tipo%20de%20Combustivel.js) |
+
+# 🔸 Kotlin ![](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+## 👩‍💻 Solucionando problemas básicos em Ruby
+|  Desafio  | Nível  | Resolução  |
+|-----------|--------|-----|
+| DDD | 🟪⬜⬜   |🏅 [**DDD.rb**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/RUBY/Solucionando%20problemas%20b%C3%A1sicos%20em%20Ruby/DDD.rb) |
+| Idade em Dias | 🟪⬜⬜   |🏅 [**Idade em Dias.rb**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/RUBY/Solucionando%20problemas%20b%C3%A1sicos%20em%20Ruby/Idade%20em%20Dias.rb) |
+| Par ou Ímpar | 🟪⬜⬜   |🏅 [**Par ou Ímpar.rb**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/RUBY/Solucionando%20problemas%20b%C3%A1sicos%20em%20Ruby/Par%20ou%20%C3%8Dmpar.rb) |
+
+
+
