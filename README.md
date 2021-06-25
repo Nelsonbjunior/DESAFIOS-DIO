@@ -77,7 +77,7 @@ Sinta-se a vontade para analisar, contribuir e etc!
 | Sequência Lógica | 🟪🟪⬜   |🏅 [**Sequência Lógica.rb**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/RUBY/Praticando%20com%20desafios%20intermedi%C3%A1rios%20em%20Ruby/Sequ%C3%AAncia%20L%C3%B3gica.rb) |
 | Tipo de Combustível | 🟪🟪⬜   |🏅 [**Tipo de Combustível.rb**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/RUBY/Praticando%20com%20desafios%20intermedi%C3%A1rios%20em%20Ruby/Tipo%20de%20Combust%C3%ADvel.rb) |
 
-## 👩‍💻 PSolucionando desafios matemáticos em Ruby
+## 👩‍💻 Solucionando desafios matemáticos em Ruby
 |  Desafio  | Nível  | Resolução  |
 |-----------|--------|-----|
 | Acima da Diagonal Principal | 🟪🟪🟪   |🏅 [**Acima da Diagonal Principal.rb**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/RUBY/Solucionando%20desafios%20matem%C3%A1ticos%20em%20Ruby/Acima%20da%20Diagonal%20Principal.rb) |
