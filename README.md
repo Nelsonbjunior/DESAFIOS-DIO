@@ -1,3 +1,10 @@
+----------
+<p align="center">
+  <img src="https://hermes.digitalinnovation.one/site/images/logo-white.png" width="474" height="165" alt="Digital Innovation One"/>
+</p>
+
+----------
+
 # DESAFIOS BOOTCAMPS DIO
 ![DIO-Desafios bem-vindo](https://img.shields.io/badge/DIO--Desafios-bem--vindo-sucess)
 
@@ -49,3 +56,11 @@ Sinta-se a vontade para analisar, contribuir e etc!
 | Folha de Pagamento | 🟪🟪⬜   |🏅 [**Folha de Pagamento.py**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/PYTHON/Solucionando%20Desafios%20em%20Python/Folha%20de%20Pagamento.py) |
 | Média 3 | 🟪🟪⬜   |🏅 [**Média 3.py**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/PYTHON/Solucionando%20Desafios%20em%20Python/M%C3%A9dia%203.py) |
 | Programa para Validação de Notas | 🟪🟪⬜   |🏅 [**Programa para Validação de Notas.py**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/PYTHON/Solucionando%20Desafios%20em%20Python/Programa%20para%20Valida%C3%A7%C3%A3o%20de%20Notas.py) |
+
+# 🔸 Ruby ![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+## 👩‍💻 Soluções Aritméticas em Python
+|  Desafio  | Nível  | Resolução  |
+|-----------|--------|-----|
+| Notas da Prova | 🟪⬜⬜   |🏅 [**Notas da Prova.py**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/PYTHON/Solu%C3%A7%C3%B5es%20Aritm%C3%A9ticas%20em%20Python/Notas%20da%20Prova.py) |
+| Preenchiment de Vetor I | 🟪⬜⬜   |🏅 [**Preenchiment de Vetor I.py**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/PYTHON/Solu%C3%A7%C3%B5es%20Aritm%C3%A9ticas%20em%20Python/Preenchiment%20de%20Vetor%20I.py) |
+| Triângulo | 🟪⬜⬜   |🏅 [**Triângulo.py**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/PYTHON/Solu%C3%A7%C3%B5es%20Aritm%C3%A9ticas%20em%20Python/Tri%C3%A2ngulo.py) |
