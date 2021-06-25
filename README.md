@@ -67,3 +67,12 @@ Sinta-se a vontade para analisar, contribuir e etc!
 | DDD | 🟪⬜⬜   |🏅 [**DDD.rb**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/RUBY/Solucionando%20problemas%20b%C3%A1sicos%20em%20Ruby/DDD.rb) |
 | Idade em Dias | 🟪⬜⬜   |🏅 [**Idade em Dias.rb**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/RUBY/Solucionando%20problemas%20b%C3%A1sicos%20em%20Ruby/Idade%20em%20Dias.rb) |
 | Par ou Ímpar | 🟪⬜⬜   |🏅 [**Par ou Ímpar.rb**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/RUBY/Solucionando%20problemas%20b%C3%A1sicos%20em%20Ruby/Par%20ou%20%C3%8Dmpar.rb) |
+
+## 👩‍💻 Praticando com desafios intermediários em Ruby
+|  Desafio  | Nível  | Resolução  |
+|-----------|--------|-----|
+| Crescimento Populacional | 🟪🟪⬜   |🏅 [**Crescimento Populacional.rb**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/RUBY/Praticando%20com%20desafios%20intermedi%C3%A1rios%20em%20Ruby/Crescimento%20Populacional.rb) |
+| Encaixe ou Não | 🟪🟪⬜   |🏅 [**Encaixe ou Não.rb**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/RUBY/Praticando%20com%20desafios%20intermedi%C3%A1rios%20em%20Ruby/Encaixe%20ou%20N%C3%A3o.rb) |
+| Fibonacci Fácil | 🟪🟪⬜   |🏅 [**Fibonacci Fácil.rb**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/RUBY/Praticando%20com%20desafios%20intermedi%C3%A1rios%20em%20Ruby/Fibonacci%20F%C3%A1cil.rb) |
+| Sequência Lógica | 🟪🟪⬜   |🏅 [**Sequência Lógica.rb**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/RUBY/Praticando%20com%20desafios%20intermedi%C3%A1rios%20em%20Ruby/Sequ%C3%AAncia%20L%C3%B3gica.rb) |
+| Tipo de Combustível | 🟪🟪⬜   |🏅 [**Tipo de Combustível.rb**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/RUBY/Praticando%20com%20desafios%20intermedi%C3%A1rios%20em%20Ruby/Tipo%20de%20Combust%C3%ADvel.rb) |
