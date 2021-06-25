@@ -5,7 +5,10 @@
 
 ----------
 
-# DESAFIOS BOOTCAMPS DIO
+<p align="middle">DESAFIOS BOOTCAMPS DIO</p>
+
+----------
+
 ![DIO-Desafios bem-vindo](https://img.shields.io/badge/DIO--Desafios-bem--vindo-sucess)
 
 Aqui se encontram minhas implementações dos desafios de código da Digital Innovation One. 
@@ -58,9 +61,9 @@ Sinta-se a vontade para analisar, contribuir e etc!
 | Programa para Validação de Notas | 🟪🟪⬜   |🏅 [**Programa para Validação de Notas.py**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/PYTHON/Solucionando%20Desafios%20em%20Python/Programa%20para%20Valida%C3%A7%C3%A3o%20de%20Notas.py) |
 
 # 🔸 Ruby ![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-## 👩‍💻 Soluções Aritméticas em Python
+## 👩‍💻 Solucionando problemas básicos em Ruby
 |  Desafio  | Nível  | Resolução  |
 |-----------|--------|-----|
-| Notas da Prova | 🟪⬜⬜   |🏅 [**Notas da Prova.py**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/PYTHON/Solu%C3%A7%C3%B5es%20Aritm%C3%A9ticas%20em%20Python/Notas%20da%20Prova.py) |
-| Preenchiment de Vetor I | 🟪⬜⬜   |🏅 [**Preenchiment de Vetor I.py**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/PYTHON/Solu%C3%A7%C3%B5es%20Aritm%C3%A9ticas%20em%20Python/Preenchiment%20de%20Vetor%20I.py) |
-| Triângulo | 🟪⬜⬜   |🏅 [**Triângulo.py**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/PYTHON/Solu%C3%A7%C3%B5es%20Aritm%C3%A9ticas%20em%20Python/Tri%C3%A2ngulo.py) |
+| DDD | 🟪⬜⬜   |🏅 [**DDD.rb**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/RUBY/Solucionando%20problemas%20b%C3%A1sicos%20em%20Ruby/DDD.rb) |
+| Idade em Dias | 🟪⬜⬜   |🏅 [**Idade em Dias.rb**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/RUBY/Solucionando%20problemas%20b%C3%A1sicos%20em%20Ruby/Idade%20em%20Dias.rb) |
+| Par ou Ímpar | 🟪⬜⬜   |🏅 [**Par ou Ímpar.rb**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/RUBY/Solucionando%20problemas%20b%C3%A1sicos%20em%20Ruby/Par%20ou%20%C3%8Dmpar.rb) |
