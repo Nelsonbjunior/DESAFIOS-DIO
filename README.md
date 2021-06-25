@@ -93,12 +93,12 @@ Sinta-se a vontade para analisar, contribuir e etc!
 | Tipo de Combustivel | 🟪⬜⬜   |🏅 [**Tipo de Combustivel.js**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/JAVASCRIPT/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20JavaScript/Tipo%20de%20Combustivel.js) |
 
 # 🔸 Kotlin ![](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-## 👩‍💻 Solucionando problemas básicos em Ruby
+## 👩‍💻 Primeiros passos em Kotlin
 |  Desafio  | Nível  | Resolução  |
 |-----------|--------|-----|
-| DDD | 🟪⬜⬜   |🏅 [**DDD.rb**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/RUBY/Solucionando%20problemas%20b%C3%A1sicos%20em%20Ruby/DDD.rb) |
-| Idade em Dias | 🟪⬜⬜   |🏅 [**Idade em Dias.rb**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/RUBY/Solucionando%20problemas%20b%C3%A1sicos%20em%20Ruby/Idade%20em%20Dias.rb) |
-| Par ou Ímpar | 🟪⬜⬜   |🏅 [**Par ou Ímpar.rb**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/RUBY/Solucionando%20problemas%20b%C3%A1sicos%20em%20Ruby/Par%20ou%20%C3%8Dmpar.rb) |
+| Multiplicação Simples | 🟪⬜⬜   |🏅 [**Multiplicação Simples.kt**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/KOTLIN/Primeiros%20passos%20em%20Kotlin/Multiplica%C3%A7%C3%A3o%20Simples.kt) |
+| Média 1 | 🟪⬜⬜   |🏅 [**Média 1.kt**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/KOTLIN/Primeiros%20passos%20em%20Kotlin/M%C3%A9dia%201.kt) |
+| Soma Simples | 🟪⬜⬜   |🏅 [**Soma Simples.kt**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/KOTLIN/Primeiros%20passos%20em%20Kotlin/Soma%20Simples.kt) |
 
 
 
