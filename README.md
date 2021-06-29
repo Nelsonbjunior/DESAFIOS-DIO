@@ -100,5 +100,19 @@ Sinta-se a vontade para analisar, contribuir e etc!
 | Média 1 | 🟪⬜⬜   |🏅 [**Média 1.kt**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/KOTLIN/Primeiros%20passos%20em%20Kotlin/M%C3%A9dia%201.kt) |
 | Soma Simples | 🟪⬜⬜   |🏅 [**Soma Simples.kt**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/KOTLIN/Primeiros%20passos%20em%20Kotlin/Soma%20Simples.kt) |
 
+## 👩‍💻 SOLUCIONANDO DESAFIOS EM KOTLIN
+|  Desafio  | Nível  | Resolução  |
+|-----------|--------|-----|
+| A Corrida de Tartarugas | 🟪⬜⬜   |🏅 [**A Corrida de Tartarugas.kt**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/KOTLIN/SOLUCIONANDO%20DESAFIOS%20EM%20KOTLIN/A%20Corrida%20de%20Tartarugas.kt) |
+| Análise de Números | 🟪⬜⬜   |🏅 [**Análise de Números.kt**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/KOTLIN/SOLUCIONANDO%20DESAFIOS%20EM%20KOTLIN/An%C3%A1lise%20de%20N%C3%BAmeros.kt) |
+| Fibonacci Fácil | 🟪⬜⬜   |🏅 [**Fibonacci Fácil.kt**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/KOTLIN/SOLUCIONANDO%20DESAFIOS%20EM%20KOTLIN/Fibonacci%20F%C3%A1cil.kt) |
+| Teste de Seleção 1 | 🟪⬜⬜   |🏅 [**Teste de Seleção 1.kt**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/KOTLIN/SOLUCIONANDO%20DESAFIOS%20EM%20KOTLIN/Teste%20de%20Sele%C3%A7%C3%A3o%201.kt) |
+| Triângulo | 🟪⬜⬜   |🏅 [**Triângulo.kt**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/KOTLIN/SOLUCIONANDO%20DESAFIOS%20EM%20KOTLIN/Tri%C3%A2ngulo.kt) |
 
+## 👩‍💻 PRATICANDO PROGRAMAÇÃO COM KOTLIN
+|  Desafio  | Nível  | Resolução  |
+|-----------|--------|-----|
+| Bob Conduite | 🟪🟪⬜   |🏅 [**Bob Conduite.kt**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/KOTLIN/PRATICANDO%20PROGRAMA%C3%87%C3%83O%20COM%20KOTLIN/Bob%20Conduite.kt) |
+| Contagem de Cédulas | 🟪🟪⬜   |🏅 [**Contagem de Cédulas.kt**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/KOTLIN/PRATICANDO%20PROGRAMA%C3%87%C3%83O%20COM%20KOTLIN/Contagem%20de%20C%C3%A9dulas.kt) |
+| Distância | 🟪🟪⬜   |🏅 [**Distância.kt**](https://github.com/Nelsonbjunior/DESAFIOS-DIO/blob/main/KOTLIN/PRATICANDO%20PROGRAMA%C3%87%C3%83O%20COM%20KOTLIN/Dist%C3%A2ncia.kt) |
 
